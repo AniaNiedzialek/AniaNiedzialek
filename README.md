@@ -1,5 +1,5 @@
 # Hi, I’m Ania! <br>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> <br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" /> <br>
 Welcome to my GitHub page! Here's some informaiton about me:
 - I'm a Computer Science student at San Jose State University in California.
 - I’m currently working on developing a secure chatroom, personal website and improving MotionAi.
@@ -18,16 +18,6 @@ Welcome to my GitHub page! Here's some informaiton about me:
 - [Cinema Management System](https://github.com/AniaNiedzialek/2024-CS151-07-Cinema_Mangement_System)
 - [Blackjack + Snake Game](https://github.com/yourusername/game-manager)
 
-## Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-af78cc?style=flat&logo=html&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anianiedzialek&layout=compact&theme=radical)
 
@@ -43,3 +33,11 @@ Welcome to my GitHub page! Here's some informaiton about me:
 - [Personal Website](http://127.0.0.1:5500/index.html)
 - Email: aniedz0410@gmail.com
 
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-af78cc?style=flat&logo=html&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
