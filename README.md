@@ -31,7 +31,7 @@ Welcome to my GitHub page! Here's some informaiton about me:
 
 - [LinkedIn](https://linkedin.com/in/akniedzialek)
 - [Github](https://anianiedzialek.github.io)
-- [Personal Website]([http://127.0.0.1:5500/index.html](https://anianiedzialek.github.io/mywebsite/))
+- [Personal Website](https://anianiedzialek.github.io/mywebsite/))
 - Email: aniedz0410@gmail.com
 
 ## Tech Stack
