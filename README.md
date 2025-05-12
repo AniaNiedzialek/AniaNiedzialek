@@ -21,7 +21,8 @@ Welcome to my GitHub page! Here's some informaiton about me:
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anianiedzialek&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anianiedzialek&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anianiedzialek)](https://git.io/streak-stats)
+
 [![Ania's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anianiedzialek&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
